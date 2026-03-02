@@ -1,8 +1,8 @@
 # Universal Raster-to-Point Spatial Join (QGIS Plugin)
 
-A high-performance QGIS processing algorithm designed to solve the "Polygon-on-Polygon" bottleneck when intersecting large grid datasets (like Census data or UTM quadrants) with reference data (like species registers) within a specific planning area.
+A high-performance QGIS processing algorithm designed to solve the "Polygon-on-Polygon" bottleneck when intersecting large grid datasets (UTM quadrants) with reference data (like species registers) within a specific planning area.
 
-*Ein hochperformantes QGIS-Plugin zur Lösung des "Polygon-auf-Polygon"-Flaschenhalses bei der Verschneidung großer Rasterdaten (z.B. Zensus oder UTM-Kacheln) mit Sachdaten (z.B. Artenkataster) innerhalb eines Planungsgebietes.*
+*Ein hochperformantes QGIS-Plugin zur Lösung des "Polygon-auf-Polygon"-Flaschenhalses bei der Verschneidung großer Rasterdaten (z.B.  UTM-Kacheln) mit Sachdaten (z.B. Artenkataster vom BFN ) innerhalb eines Planungsgebietes.*
 
 ## 🚀 Features
 * **Lightning Fast:** Converts grid polygons to centroids on-the-fly to perform a highly optimized spatial point-in-polygon join.
