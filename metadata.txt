@@ -3,6 +3,6 @@ name=Universal Raster Join
 qgisMinimumVersion=3.0
 description=Joins an area mask with a grid and extracts attributes from a data layer (Raster to Points).
 version=2.1
-author=Your Name
+author=Lienus Rob
 about=Converts a grid into points, filters by an area polygon, and performs a spatial join with a reference data layer. Features automatic CRS handling.
 category=Vector
