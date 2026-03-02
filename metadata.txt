@@ -2,7 +2,10 @@
 name=Universal Raster Join
 qgisMinimumVersion=3.0
 description=Joins an area mask with a grid and extracts attributes from a data layer (Raster to Points).
-version=2.1
-author=Lienus Rob
-about=Converts a grid into points, filters by an area polygon, and performs a spatial join with a reference data layer. Features automatic CRS handling.
+version=1.0.1
+author=Lienus
+email=lienus.rob@hotmail.de
+tracker=https://github.com/lienusrob/universal-raster-join-qgis/issues
+repository=https://github.com/lienusrob/universal-raster-join-qgis.git
+about=Converts a grid into points, filters by an area polygon, and performs a spatial join with a reference data layer. Features automatic CRS handling and centroid-trap fix.
 category=Vector
